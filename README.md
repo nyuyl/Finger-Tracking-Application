@@ -10,7 +10,7 @@ User Manual:
 
 After running the main.py file, users can click the START button to initialize the application. 
 For this application, there are four modes controled by different keyboard buttons: 
-Press 's' to start
-Press 'p' to pause/start the tracking
-Press 'c' to clear the screen
-Press 'q' to quit the program
+Press 's' to start;
+Press 'p' to pause/start the tracking;
+Press 'c' to clear the screen;
+Press 'q' to quit the program.
