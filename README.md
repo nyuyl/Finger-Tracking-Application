@@ -1,0 +1,2 @@
+# Finger-Tracking-Application
+Uses OpenCV library along with Numpy library to track the point of the finger. Based on the HSV segmentation method, this application separated out hand from the background. With the help of convexity Defects function, this application tracks down the topmost point of the contour detected. It also allows users to record the tracking of the point, to write anything on the screen and to clear the screen at any time.
